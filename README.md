@@ -13,7 +13,9 @@ Authors
 
 **Alvin Nguyen**
 
-+ https://bitbucket.org/Alvin_nguyen01
++ https://github.com/Alvin-nguyen
++ https://alvinwin.com
+
 
 
 
